@@ -1,5 +1,5 @@
 # ESTADÍSTICA PARA INGENIERÍA Y CIENCIAS
-Resolución de las prácticas del curso de posgrado 'Estadística para Ingeniería y Ciencias' (2022)
+Resolución de las prácticas y trabajo final del curso de posgrado 'Estadística para Ingeniería y Ciencias' (2022)
 ## Herramientas
 * R
 * JupyterLab
